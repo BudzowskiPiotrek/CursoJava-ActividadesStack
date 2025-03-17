@@ -13,7 +13,6 @@ public class PruebaDos {
 		} else {
 			System.out.println("No balanceada"); // SI NO ESTÁ BALANCEADO, IMPRIME ESTE MENSAJE
 		}
-
 	}
 
 	public static boolean balanceada(String e) {
